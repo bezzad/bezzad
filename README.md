@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**bezzad/bezzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced application developer and software engineer in leveraging agile frameworks to provide a robust synopsis for high level overviews. My day job keeps me in C# most of the time, but I do get to play with Angular and other technologies a bit. More than work and income, the friendly working environment is priority for me. I hope that as much as I'm useful to an organization, the organization will be also useful and exciting for me.
 
-Here are some ideas to get you started:
++ 📫 How to reach me: 
+  :heavy_check_mark: Email: Behzad.Khosravifar@gmail.com
+  
+  :heavy_check_mark: Telegram: @bezzad
+  
+  :heavy_check_mark: Twitter: @bkhosravifar
+  
+  :heavy_check_mark: Skype: live:behzadkh
+  
+  :heavy_check_mark: [About me](https://bezzad.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/bezzad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezzad&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/bezzad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezzad" />
+</a>
