@@ -2,9 +2,7 @@
 
 Experienced application developer and software engineer in leveraging agile frameworks to provide a robust synopsis for high-level overviews. My day job keeps me in C# most of the time, but I do get to play with Angular and other technologies a bit. More than work and income, the friendly working environment is a priority for me.
 
-<a href="javascript:navigator.clipboard.writeText('14Jrnp54wMyDZmuw48Cyuh62cBL7mRMe1Y').then(()=> alert('bitcoin wallet address copied!'));">
-  <img src="(https://img.shields.io/badge/donate-Bitcoin-gold.svg" />
-</a> 
+![donate bitcoin](https://img.shields.io/badge/donate-Bitcoin-gold.svg) `14Jrnp54wMyDZmuw48Cyuh62cBL7mRMe1Y`
 
 ![donate tether](https://img.shields.io/badge/donate-Tether-green.svg) `0x67B424124460a1673bFaF3c3Ebf6d780d97df8De`
 
