@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Experienced application developer and software engineer in leveraging agile frameworks to provide a robust synopsis for high-level overviews. My day job keeps me in C# most of the time, but I do get to play with Angular and other technologies a bit. More than work and income, the friendly working environment is a priority for me. I hope that as much as I'm useful to an organization, the organization will be also useful and exciting for me.
+Experienced application developer and software engineer in leveraging agile frameworks to provide a robust synopsis for high-level overviews. My day job keeps me in C# most of the time, but I do get to play with Angular and other technologies a bit. More than work and income, the friendly working environment is a priority for me.
 
 + 📫 How to reach me: 
 
@@ -12,7 +12,7 @@ Experienced application developer and software engineer in leveraging agile fram
   
   :heavy_check_mark: Skype: live:behzadkh
   
-  :heavy_check_mark: Linkedin: https://www.linkedin.com/in/behzad-khosravifar-799ba379/
+  :heavy_check_mark: Linkedin: behzad-khosravifar-799ba379
   
   :heavy_check_mark: [About me](https://bezzad.github.io/)
 
