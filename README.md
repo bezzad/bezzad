@@ -32,7 +32,8 @@ Experienced application developer and software engineer in leveraging agile fram
 </a>
 
 <br/>
-
+  
+   
 <a href="https://codetrace.com/users/bezzad"><img src="https://codetrace.com/widget/bezzad" width="220" height="50" /></a>
 
 <a href="https://stackexchange.com/users/4086707"><img src="https://stackexchange.com/users/flair/4086707.png" width="208" height="58" alt="profile for Behzad on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Behzad on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
