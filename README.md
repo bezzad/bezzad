@@ -28,9 +28,10 @@ Experienced application developer and software engineer in leveraging agile fram
 </a>
 
 <a href="https://github.com/bezzad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezzad&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezzad&langs_count=8&layout=compact&theme=radical" />
 </a>
 
+<br/>
 
 <a href="https://codetrace.com/users/bezzad"><img src="https://codetrace.com/widget/bezzad" width="220" height="50" /></a>
 
