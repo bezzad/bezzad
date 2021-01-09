@@ -24,11 +24,11 @@ Experienced application developer and software engineer in leveraging agile fram
   :heavy_check_mark: [About me](https://bezzad.github.io/)
 
 <a href="https://github.com/bezzad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezzad&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezzad&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
 </a>
 
 <a href="https://github.com/bezzad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezzad" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezzad&langs_count=8&layout=compact" />
 </a>
 
 
