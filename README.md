@@ -23,17 +23,14 @@ Experienced application developer and software engineer in leveraging agile fram
   
   :heavy_check_mark: [About me](https://bezzad.github.io/)
 
-<a href="https://github.com/bezzad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezzad&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-</a>
 
-<a href="https://github.com/bezzad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezzad&langs_count=8&layout=compact&theme=radical" />
-</a>
+[![Behzad's github stats](https://github-readme-stats.vercel.app/api?username=bezzad&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/bezzad)
 
-<br/>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bezzad&langs_count=8&layout=compact&theme=radical)](https://github.com/bezzad/)
    
-<a href="https://codetrace.com/users/bezzad"><img src="https://codetrace.com/widget/bezzad" width="220" height="50" /></a>
+   
+[![Codetrace widget](https://codetrace.com/widget/bezzad)](https://codetrace.com/users/bezzad)
 
-<a href="https://stackexchange.com/users/4086707"><img src="https://stackexchange.com/users/flair/4086707.png" width="208" height="58" alt="profile for Behzad on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Behzad on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+[![profile for Behzad on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/4086707.png)](https://stackexchange.com/users/4086707)
