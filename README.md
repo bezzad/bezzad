@@ -8,6 +8,8 @@ Experienced application developer and software engineer in leveraging agile fram
 
 ![donate ether](https://img.shields.io/badge/donate-Ether-slategray.svg) `0x67B424124460a1673bFaF3c3Ebf6d780d97df8De`
 
+![donate ether](https://img.shields.io/badge/donate-Dogecoin-gold.svg) `DMzP5DTNsSnKETMAqG5awU8RwA7LgVYJQq`
+
 
 + 📫 How to reach me: 
 
