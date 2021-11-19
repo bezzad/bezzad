@@ -31,7 +31,7 @@ Experienced application developer and software engineer in leveraging agile fram
 
 ![donate bitcoin](https://img.shields.io/badge/donate-Bitcoin-gold.svg) `14Jrnp54wMyDZmuw48Cyuh62cBL7mRMe1Y`
 
-![donate tether](https://img.shields.io/badge/donate-Tether-green.svg) `0x67B424124460a1673bFaF3c3Ebf6d780d97df8De`
+![donate tether (TRC20)](https://img.shields.io/badge/donate-Tether-green.svg) `TKEJ6dWTVmEvGWawmoHL2iyTgovjP1qY7u`
 
 ![donate ether](https://img.shields.io/badge/donate-Ether-slategray.svg) `0x67B424124460a1673bFaF3c3Ebf6d780d97df8De`
 
