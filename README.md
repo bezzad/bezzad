@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Experienced application developer and software engineer in leveraging agile frameworks to provide a robust synopsis for high-level overviews. My day job keeps me in C# most of the time, but I do get to play with Angular and other technologies a bit. More than work and income, the friendly working environment is a priority for me.
+Senior Web Developer with 10+ years of experience in designing, developing and delivering user-centric software applications in leveraging agile frameworks to provide a robust synopsis for high level overviews.
 
 + 📫 How to reach me: 
 
