@@ -35,6 +35,6 @@ Senior Web Developer with 10+ years of experience in designing, developing and d
 
 ![donate ether](https://img.shields.io/badge/donate-Ether-slategray.svg) `0x4a404f4b06994efe58c466d3b12c8f2f8297c025`
 
-![donate ether](https://img.shields.io/badge/donate-Dogecoin-gold.svg) `DDL2wEtLPPZihpLD6AA681aW8BRRkK4Dw6`
+![donate dogecoin](https://img.shields.io/badge/donate-Dogecoin-gold.svg) `DDL2wEtLPPZihpLD6AA681aW8BRRkK4Dw6`
 
-<a href="https://www.patreon.com/bePatron?u=74092338" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+[![donate patreon](https://img.shields.io/badge/Become a Patron!-red.svg)](https://www.patreon.com/bePatron?u=74092338)
