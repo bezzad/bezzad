@@ -37,4 +37,4 @@ Senior Web Developer with 10+ years of experience in designing, developing and d
 
 ![donate dogecoin](https://img.shields.io/badge/donate-Dogecoin-gold.svg) `DDL2wEtLPPZihpLD6AA681aW8BRRkK4Dw6`
 
-[![donate patreon](https://img.shields.io/badge/Become-a-Patron!-red.svg)](https://www.patreon.com/bePatron?u=74092338)
+[![donate patreon](https://img.shields.io/badge/Become%20a%20Patron!-red.svg)](https://www.patreon.com/bePatron?u=74092338)
