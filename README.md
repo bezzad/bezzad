@@ -6,7 +6,7 @@ Senior Web Developer with 10+ years of experience in designing, developing and d
 
   :heavy_check_mark: Email: Behzad.Khosravifar@gmail.com
   
-  :heavy_check_mark: Linkedin: behzad-khosravifar-799ba379
+  :heavy_check_mark: Linkedin: [behzad-khosravifar-799ba379](https://www.linkedin.com/in/behzad-khosravifar-799ba379)
   
   :heavy_check_mark: [About me](https://bezzad.github.io/)
 
