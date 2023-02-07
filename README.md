@@ -27,7 +27,7 @@ Senior Web Developer with 10+ years of experience in designing, developing and d
 
 ![donate tether (TRC20)](https://img.shields.io/badge/donate-Tether-green.svg) `TKEJ6dWTVmEvGWawmoHL2iyTgovjP1qY7u`
 
-![donate ether](https://img.shields.io/badge/donate-Ether-slategray.svg) `0x4a404f4b06994efe58c466d3b12c8f2f8297c025`
+![donate ether](https://img.shields.io/badge/donate-Ether-slategray.svg) `0x4a404f4b06994efe58c466d3b12c8f2f8297c025` 
 
 ![donate dogecoin](https://img.shields.io/badge/donate-Dogecoin-gold.svg) `DDL2wEtLPPZihpLD6AA681aW8BRRkK4Dw6`
 
