@@ -18,8 +18,8 @@ Senior Web Developer with 10+ years of experience in designing, developing and d
 
 [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/bezzad/donate)
 
-![donate bitcoin](https://img.shields.io/badge/donate-Bitcoin-gold.svg) `15rgkGWwioZ7N6KprUNb8f27VTMCNXwYRG`
+![donate bitcoin](https://img.shields.io/badge/donate-Bitcoin-gold.svg) `bc1qzv798ckr7s06hrrvyv4duse2vva73tjt8gp8w6`
 
-![donate tether (TRC20)](https://img.shields.io/badge/donate-Tether-green.svg) `TKEJ6dWTVmEvGWawmoHL2iyTgovjP1qY7u`
+![donate tether (TRC20)](https://img.shields.io/badge/Tether-TRC20-green.svg) `TBqa8n4nKsqV8k4FCMRjqaKdGWSo3m9ZCU`
 
-![donate ether](https://img.shields.io/badge/donate-Ether-slategray.svg) `0x4a404f4b06994efe58c466d3b12c8f2f8297c025` 
+![donate ether (ERC20)](https://img.shields.io/badge/Ethereum-ERC20-slategray.svg) `0xfa03a3e6db41e6c78009d7611becd29a04cf37a7` 
